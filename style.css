@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#sticky{
+    position: sticky;
+    top: 0%;
+}
+.banner{
+    border: 1px solid black;
+    background-color: rgba(255, 200, 129, 0.93);
+    padding: 35px;
+    top: 25%;
+    right: 40px;
+    position: absolute;
+    height: 300px;
+    width: 450px;
+   
+   
+}
+#first{
+    background-color: aliceblue;
+}
+#second{
+    background-color: aliceblue;
+
+}
+#third{
+background-color: aliceblue;
+}
+#fourth{
+   background-color: rgb(245, 168, 16);
+}
+#five{
+background-color: aliceblue;
+}
+#climax{
+    background-color: darkgrey;
+}
+#luc{
+    list-style: none;
+}
+#avas{
+    display: flex;
+}
+#aaru{
+    margin-left: 60px;
+}
